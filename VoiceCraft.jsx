@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+ import { useState, useRef, useEffect } from "react";
 
 // ── CONFIG (move to environment variables before deploying) ──
 const STRIPE_PUBLISHABLE_KEY = import.meta.env.VITE_STRIPE_PUBLISHABLE_KEY || "pk_live_51SzSN8PJxaCKSSfpCy3dDAEasfCrD4WBM3uAeNzybq1zL8loJeneG0ltgNazVcv8sXhBRmW2pDq6wEwYTftL5NDI00RoTLOlyx";
